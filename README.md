@@ -14,6 +14,14 @@
 	PHP
 	MYSQLI
 
+# Installation
+
+	Download the repo files , Go through Test.php to clearly understand what's happening then adjust appropriately
+	Incase You a beginner in PHP programming Email Me peterkariukimutuura@gmail.com for guidelines.
+
+	The screenshots below shows the end result on my localhost on the Users Table after Executing the script.
+
+	![User Tables](https://github.com/peterkariukimutuura/PHP-Generate-Massive-Database-Data/blob/master/images/data.png)
 
 # Tip
 
