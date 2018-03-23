@@ -26,7 +26,7 @@
 	The screenshots below shows the end result on my
 	 localhost on the Users Table after Executing the script.
 
-	![User Table ScreenShot](https://github.com/peterkariukimutuura/PHP-Generate-Massive-Database-Data/blob/master/images/data.png)
+![User Table ScreenShot](https://github.com/peterkariukimutuura/PHP-Generate-Massive-Database-Data/blob/master/images/data.png)
 
 # Tip
 
